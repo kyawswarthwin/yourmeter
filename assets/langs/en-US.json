@@ -1,0 +1,30 @@
+{
+  "app": {
+    "title": "Your Meter"
+  },
+  "newRecord": "New Record",
+  "meterBillCal": "Meter Bill Calculator",
+  "home": "Home",
+  "language": "Language",
+  "about": "About",
+  "credit": "Credits",
+  "unit": "unit",
+  "title-1": "Last 5 Month Record",
+  "label-1": "Total Unit",
+  "label-2": "Total Amount ",
+  "saveRecord": "Save Record",
+  "industry": "Industry",
+  "calculate": "Calculate",
+  "range": "Range",
+  "price": "Price",
+  "amount": "Amount",
+  "ks": "ks",
+  "to": "to",
+  "meterRecord": "Meter Record",
+  "no": "No.",
+  "date": "Date",
+  "noRecord": "No Record",
+  "alreadyRecord": "Already Recorded for this Month!",
+  "newRecordSaved": "New record has been saved!",
+  "require": "Require!"
+}
